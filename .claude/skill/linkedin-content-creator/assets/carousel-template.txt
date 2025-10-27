@@ -1,0 +1,101 @@
+=== TEMPLATE: CARROSSEL LINKEDIN ===
+
+SLIDE 1 - CAPA
+━━━━━━━━━━━━━━━━━━
+[TÍTULO PRINCIPAL]
+[Promessa de valor clara]
+
+[Subtítulo/contexto breve]
+
+[Nome do autor]
+━━━━━━━━━━━━━━━━━━
+
+---
+
+SLIDE 2 - INTRODUÇÃO/CONTEXTO
+━━━━━━━━━━━━━━━━━━
+[Por que isso importa]
+
+[Problema que resolve ou oportunidade]
+
+[Para quem é relevante]
+━━━━━━━━━━━━━━━━━━
+
+---
+
+SLIDES 3-8 - CONTEÚDO PRINCIPAL
+━━━━━━━━━━━━━━━━━━
+[Ponto/Técnica #1]
+
+→ Explicação concisa
+→ Exemplo ou aplicação
+→ Benefício/resultado
+
+[Visual: ícone, número grande, ou divisor]
+━━━━━━━━━━━━━━━━━━
+
+[Repetir estrutura para cada ponto]
+[Máximo 3-5 linhas por slide]
+[Usar bullets, numeração, ou setas]
+
+---
+
+SLIDE 9 - SÍNTESE/RECAPITULAÇÃO
+━━━━━━━━━━━━━━━━━━
+[Título: "Resumindo" ou "Em poucas palavras"]
+
+✓ Ponto-chave 1
+✓ Ponto-chave 2
+✓ Ponto-chave 3
+✓ Ponto-chave 4
+✓ Ponto-chave 5
+
+[Transição para próximo passo]
+━━━━━━━━━━━━━━━━━━
+
+---
+
+SLIDE 10 - CTA/ENCERRAMENTO
+━━━━━━━━━━━━━━━━━━
+[Call-to-action principal]
+
+[Próximo passo concreto]
+
+[Pergunta para comentários]
+
+[Seu nome/marca]
+━━━━━━━━━━━━━━━━━━
+
+===================================
+
+LEGENDA DO POST (acompanha o carrossel):
+
+[HOOK impactante relacionado ao carrossel]
+
+[2-3 linhas expandindo o contexto]
+
+[Convite para swipe: "Deslize para ver →" ou similar]
+
+[CTA principal do carrossel]
+
+---
+
+#hashtag1 #hashtag2 #hashtag3 #hashtag4
+
+===================================
+
+DIRETRIZES DE DESIGN:
+• Máximo 10 slides (ideal: 7-8)
+• Fonte legível e grande
+• Contraste alto (texto escuro em fundo claro ou vice-versa)
+• Consistência visual entre slides
+• Espaço em branco generoso
+• Hierarquia clara (título > subtítulo > corpo)
+• Cores alinhadas com personal brand
+
+DICA: Carrosséis funcionam melhor para:
+- Listicles (X técnicas/lições/erros)
+- Frameworks passo-a-passo
+- Antes/Depois com múltiplas etapas
+- Comparações (X vs Y)
+- Mitos vs Realidade

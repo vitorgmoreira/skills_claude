@@ -33,6 +33,35 @@ Mentor especializado em aceleração de startups B2B SaaS brasileiras em estági
 
 ---
 
+### LinkedIn Content Creator
+
+Criador expert de conteúdo para LinkedIn com técnicas avançadas de storytelling e otimização algorítmica.
+
+- **Descrição**: Transforma Claude em um escritor profissional de LinkedIn que cria posts altamente engajadores, prontos para publicar
+- **Capacidades principais**:
+  - Criação de posts completos do zero
+  - Adaptação de conteúdo de outras fontes (artigos, reuniões, experiências)
+  - Geração de ideias de conteúdo
+  - Otimização para algoritmo do LinkedIn
+  - Estruturação de carousels
+  - Aplicação de técnicas de copywriting e storytelling
+- **Recursos inclusos**:
+  - 8 frameworks de conteúdo de alta performance
+  - 7 tipos de hooks magnéticos
+  - Técnicas de engajamento e triggers psicológicos
+  - Templates de posts e carousels
+- **Download**: [`linkedin-content-creator.zip`](linkedin-content-creator.zip)
+
+**Exemplos de uso:**
+```
+"Escreva um post para LinkedIn sobre técnicas de produtividade para founders"
+"Transforme este artigo em um post de LinkedIn: [artigo]"
+"Acabei de ter um meeting onde aprendi X sobre pricing. Crie conteúdo disso"
+"Me ajude a criar conteúdo para LinkedIn sobre minha startup"
+```
+
+---
+
 ## 🚀 Como Instalar
 
 1. Baixe o arquivo `.zip` da skill desejada
@@ -54,9 +83,10 @@ Cada skill inclui sua própria documentação com exemplos específicos de uso.
 ```
 skills_claude/
 ├── README.md
-├── b2b-saas-startup-mentor.zip          # Skill empacotada (pronta para instalar)
-└── b2b-saas-startup-mentor/             # Código fonte da skill
-    ├── SKILL.md                         # Configuração principal
+│
+├── b2b-saas-startup-mentor.zip          # Skill: Mentoria de Startups
+└── b2b-saas-startup-mentor/
+    ├── SKILL.md
     ├── references/                      # 8 guias detalhados
     │   ├── product-market-fit.md
     │   ├── metrics-kpis.md
@@ -66,9 +96,19 @@ skills_claude/
     │   ├── growth-strategies.md
     │   ├── okrs-planning.md
     │   └── brazil-market-context.md
-    └── assets/                          # 4 templates prontos
+    └── assets/                          # 4 templates
         ├── pitch-deck-template.md
         ├── okr-template.md
         ├── one-pager-template.md
         └── metrics-dashboard-template.md
+│
+├── linkedin-content-creator.zip         # Skill: Criador de Conteúdo LinkedIn
+└── linkedin-content-creator/
+    ├── SKILL.md
+    ├── references/
+    │   ├── engagement-techniques.md
+    │   └── content-frameworks.md
+    └── assets/
+        ├── post-template.txt
+        └── carousel-template.txt
 ```
