@@ -1,40 +1,148 @@
-=== TEMPLATE: POST PADRÃO LINKEDIN ===
+=== TEMPLATE: POST LINKEDIN (FORMATO CORRETO) ===
 
-[HOOK - 1 a 2 linhas]
-[Escolher uma técnica de engagement-techniques.md]
-[Deve parar o scroll e criar curiosidade/identificação]
+IMPORTANTE: Este é o formato EXATO que deve ser usado.
+Posts devem ser entregues PRONTOS para copiar e colar no LinkedIn.
 
-[CONTEXTO - 2 a 3 linhas]
-[Por que isso importa]
-[Para quem é relevante]
-[Qual problema/oportunidade]
+═══════════════════════════════════════════════════
 
-[CORPO PRINCIPAL]
-[Conteúdo substancial seguindo um dos frameworks de content-frameworks.md]
+ESTRUTURA PADRÃO:
 
-[Usar espaçamento adequado]
-[Parágrafos de 1-3 linhas]
-[Listas quando apropriado]
-[Negrito em pontos-chave]
-[Emojis estratégicos (máximo 3-5)]
+[HOOK - 1 a 2 linhas impactantes]
+[Deve parar o scroll nos primeiros 2 segundos]
 
-[CALL-TO-ACTION]
-[Pergunta específica ou convite à ação]
-[Relacionado ao conteúdo do post]
-[Que provoque resposta genuína]
+[CONTEXTO/PROBLEMA - 2-3 linhas]
+[Por que isso importa, para quem é relevante]
 
----
+[QUEBRA DE LINHA]
 
-[HASHTAGS]
+[APRESENTAÇÃO DA SOLUÇÃO ou INSIGHT PRINCIPAL]
+[2-3 linhas explicando a abordagem ou perspectiva]
+
+[QUEBRA DE LINHA]
+
+[CORPO PRINCIPAL - use formatação apropriada]
+
+→ Ponto 1
+Explicação em 2-3 linhas máximo.
+
+→ Ponto 2
+Explicação em 2-3 linhas máximo.
+
+→ Ponto 3
+Explicação em 2-3 linhas máximo.
+
+[OU, se for lista com check:]
+
+Para quem isso serve:
+✓ Grupo/persona 1
+✓ Grupo/persona 2
+✓ Grupo/persona 3
+
+[QUEBRA DE LINHA]
+
+[INSIGHT FINAL ou REFLEXÃO]
+[2-3 linhas com conclusão ou takeaway]
+
+[QUEBRA DE LINHA]
+
+[CTA FORTE E DIRETO]
+[Convite específico à ação ou pergunta que provoca comentário]
+
 #hashtag1 #hashtag2 #hashtag3 #hashtag4 #hashtag5
-[3-5 hashtags: mix de volume (1-2 amplas, 2-3 nicho)]
 
-===================================
+═══════════════════════════════════════════════════
 
-CHECKLIST PRÉ-PUBLICAÇÃO:
-□ Hook prende atenção?
-□ Conteúdo entrega valor real?
-□ Espaçamento visual adequado?
+EXEMPLO REAL FORMATADO:
+
+LinkedIn está cheio de "hacks de produtividade" genéricos.
+
+Mas e se você pudesse ter um especialista em tempo integral ao seu lado?
+
+Descobri algo que mudou completamente como trabalho: Claude Skills customizadas.
+
+Não é mais um chatbot genérico respondendo perguntas. É ter mentores especializados disponíveis 24/7.
+
+Como funciona:
+
+Você cria "skills" - pacotes de conhecimento especializado que transformam o Claude em um expert em áreas específicas.
+
+É como contratar consultores de elite, mas sem o custo de R$2.000/hora.
+
+As duas skills que criei:
+
+→ B2B SaaS Startup Mentor
+Um mentor completo para startups brasileiras em seed/pre-seed. Ele analisa suas métricas (MRR, Churn, CAC, LTV), te ajuda a estruturar OKRs, revisa pitch decks, orienta sobre pricing e go-to-market. Tudo com contexto do mercado brasileiro - não apenas teoria de Vale do Silício. 8 guias detalhados + 4 templates prontos.
+
+→ LinkedIn Content Creator
+Um escritor profissional de conteúdo para LinkedIn. Transforma qualquer ideia, artigo ou experiência em posts otimizados para engajamento. Aplica storytelling, copywriting e otimização algorítmica automaticamente. Frameworks testados + templates de carousels.
+
+Para quem isso serve:
+✓ Founders que precisam de orientação estratégica constante
+✓ Líderes que criam conteúdo no LinkedIn mas não têm tempo
+✓ Gestores que querem escalar conhecimento no time
+✓ Qualquer um que quer produtividade real, não truques
+
+O melhor?
+
+Você cria uma vez, usa para sempre. E pode customizar 100% para seu contexto específico.
+
+Isso não substitui mentores humanos ou escritores. Mas é como ter um assistente expert sempre disponível.
+
+Quer testar essas skills? Comenta "SKILL" que eu te mando os arquivos e instruções de instalação.
+
+#InteligenciaArtificial #Produtividade #Startups #IA #Liderança
+
+═══════════════════════════════════════════════════
+
+REGRAS DE FORMATAÇÃO CRÍTICAS:
+
+1. ESPAÇAMENTO
+   - Nunca mais de 3-4 linhas sem quebra
+   - Use linha em branco para separar blocos de ideias
+   - Parágrafos de 1-3 linhas SEMPRE
+
+2. SÍMBOLOS
+   - → para resultados, itens de lista, pontos principais
+   - ✓ para beneficiários, validações, checklists
+   - • apenas quando estritamente necessário
+   - Máximo 3-5 emojis no post inteiro (se usar)
+
+3. COMPRIMENTO
+   - Curto (200-400 chars): insight rápido
+   - Médio (500-800 chars): story pessoal
+   - Longo (1000-1500 chars): análise profunda
+
+4. HASHTAGS
+   - SEMPRE incluir 3-5 hashtags
+   - Mix: 1-2 amplas + 2-3 nicho
+   - Colocar no final do post
+   - Relevantes ao conteúdo
+
+5. CTA
+   - Específico, não genérico
+   - Provoca ação ou comentário
+   - Alinhado com o conteúdo
+   - Exemplos BONS:
+     * "Comenta 'X' que te envio Y"
+     * "Qual dessas técnicas você já usa?"
+     * "Você já passou por isso? Como lidou?"
+   - Exemplos RUINS:
+     * "Concorda?"
+     * "Thoughts?"
+     * "O que acham?"
+
+═══════════════════════════════════════════════════
+
+CHECKLIST ANTES DE ENTREGAR:
+
+□ Hook prende atenção nos 2 primeiros segundos?
+□ Espaçamento visual perfeito (quebras adequadas)?
+□ Símbolos usados estrategicamente (→ ✓)?
+□ Parágrafos de 1-3 linhas?
+□ Mensagem central clara?
 □ CTA específico e relevante?
-□ Tom autêntico e conversacional?
-□ Hashtags estratégicas?
+□ 3-5 hashtags incluídas?
+□ Pronto para copiar e colar no LinkedIn?
+□ Formato IDÊNTICO ao exemplo acima?
+
+═══════════════════════════════════════════════════
