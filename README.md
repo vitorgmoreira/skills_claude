@@ -4,6 +4,35 @@ Coleção pessoal de skills customizadas para Claude Desktop.
 
 ## 📚 Skills Disponíveis
 
+### Growth Hacking SaaS Specialist
+
+Especialista em encontrar e analisar táticas de growth hacking comprovadas para SaaS através de pesquisas profundas na internet.
+
+- **Descrição**: Transforma Claude em um especialista em Growth Hacking focado exclusivamente em SaaS, realizando pesquisas profundas em múltiplas fontes para identificar táticas validadas com case studies reais
+- **Capacidades principais**:
+  - Pesquisa profunda em 40+ fontes (Indie Hackers, Reddit, GrowthHackers, Hacker News, YouTube, Medium, blogs especializados)
+  - Validação com múltiplos case studies e dados mensuráveis
+  - Priorização com framework ICE (Impact, Confidence, Ease)
+  - Contextualização para mercado e região específicos
+  - Reports acionáveis com roadmap de implementação
+  - Benchmarks da indústria por estágio de crescimento
+- **Recursos inclusos**:
+  - 3 guias completos de referência (Frameworks, Métricas, Fontes de Pesquisa)
+  - Template profissional de report (12 seções)
+  - Metodologia de pesquisa em 4 camadas
+  - Benchmarks por estágio (Early/Growth/Scale)
+- **Download**: [`growth-hacking-saas.zip`](growth-hacking-saas.zip)
+
+**Exemplos de uso:**
+```
+"Preciso de táticas de growth para meu SaaS de CRM. Estamos em $2M ARR, região Brasil."
+"Nosso churn está em 8%/mês. Quais táticas funcionam para reduzir?"
+"Quero escalar aquisição para SaaS de project management em early stage."
+"Me mostre estratégias validadas de growth para SaaS B2B na América Latina."
+```
+
+---
+
 ### B2B SaaS Startup Mentor
 
 Mentor especializado em aceleração de startups B2B SaaS brasileiras em estágio seed/pre-seed.
@@ -83,6 +112,16 @@ Cada skill inclui sua própria documentação com exemplos específicos de uso.
 ```
 skills_claude/
 ├── README.md
+│
+├── growth-hacking-saas.zip              # Skill: Growth Hacking SaaS
+└── growth-hacking-saas/
+    ├── SKILL.md                         # 10.000+ palavras de instruções
+    ├── references/                      # 3 guias completos
+    │   ├── growth-frameworks.md         # AARRR, PLG, ICE, Unit Economics
+    │   ├── saas-metrics.md              # Métricas por estágio + benchmarks
+    │   └── search-sources.md            # 40+ fontes + metodologia
+    └── assets/
+        └── report-template.md           # Template com 12 seções
 │
 ├── b2b-saas-startup-mentor.zip          # Skill: Mentoria de Startups
 └── b2b-saas-startup-mentor/
