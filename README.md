@@ -2,6 +2,19 @@
 
 Coleção pessoal de skills customizadas para Claude Desktop.
 
+## 📑 Índice
+
+- [Skills Disponíveis](#-skills-disponíveis)
+  - [Hooked SaaS Retention Specialist](#hooked-saas-retention-specialist) - Formação de hábitos e retenção
+  - [Growth Hacking SaaS Specialist](#growth-hacking-saas-specialist) - Táticas de crescimento
+  - [B2B SaaS Startup Mentor](#b2b-saas-startup-mentor) - Mentoria de startups
+  - [LinkedIn Content Creator](#linkedin-content-creator) - Criação de conteúdo
+- [Como Instalar](#-como-instalar)
+- [Como Usar](#-como-usar)
+- [Estrutura do Repositório](#-estrutura-do-repositório)
+
+---
+
 ## 📚 Skills Disponíveis
 
 ### Hooked SaaS Retention Specialist
