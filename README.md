@@ -4,6 +4,38 @@ Coleção pessoal de skills customizadas para Claude Desktop.
 
 ## 📚 Skills Disponíveis
 
+### Hooked SaaS Retention Specialist
+
+Especialista em diagnosticar problemas de retenção em SaaS e transformá-los em máquinas de formação de hábitos usando o framework Hooked de Nir Eyal.
+
+- **Descrição**: Transforma Claude em um especialista em formação de hábitos para produtos SaaS, diagnosticando sistematicamente onde seu produto falha em criar hábitos e criando planos de ação específicos para transformar seu SaaS em uma máquina de retenção
+- **Capacidades principais**:
+  - Audit completo do framework Hooked (Trigger → Action → Reward → Investment)
+  - Identificação de gaps críticos em formação de hábitos
+  - Análise de 8 padrões de retenção (Data Moats, Network Effects, Switching Costs, etc.)
+  - Priorização com framework ICE (Impact, Confidence, Ease)
+  - Planos de ação detalhados e acionáveis
+  - Análise competitiva e benchmarking
+  - Considerações éticas (Manipulation Matrix)
+- **Recursos inclusos**:
+  - 4 guias completos de referência (70.000+ palavras total)
+  - Framework Hooked completo (18.000 palavras)
+  - Psicologia de hábitos (14.000 palavras)
+  - Padrões de retenção com 20+ exemplos (16.000 palavras)
+  - Checklist de análise completo (11.000 palavras)
+  - 2 templates profissionais (Audit Report + Action Plan)
+- **Download**: [`hooked-saas-retention.zip`](hooked-saas-retention.zip)
+
+**Exemplos de uso:**
+```
+"Nosso SaaS tem problema de retenção. Usuários usam uma vez e não voltam."
+"Preciso aplicar o framework Hooked ao meu produto de analytics."
+"Por que perdemos usuários para o Notion? Análise competitiva de retenção."
+"Churn está em 8%/mês. Como criar hábitos nos usuários?"
+```
+
+---
+
 ### Growth Hacking SaaS Specialist
 
 Especialista em encontrar e analisar táticas de growth hacking comprovadas para SaaS através de pesquisas profundas na internet.
@@ -112,6 +144,18 @@ Cada skill inclui sua própria documentação com exemplos específicos de uso.
 ```
 skills_claude/
 ├── README.md
+│
+├── hooked-saas-retention.zip            # Skill: Hooked SaaS Retention
+└── hooked-saas-retention/
+    ├── SKILL.md                         # 12.000+ palavras de instruções
+    ├── references/                      # 4 guias completos (70.000+ palavras)
+    │   ├── hooked-framework.md          # Framework completo (18.000 palavras)
+    │   ├── habit-psychology.md          # Psicologia de hábitos (14.000 palavras)
+    │   ├── retention-patterns.md        # 20+ padrões (16.000 palavras)
+    │   └── analysis-checklist.md        # Checklist completo (11.000 palavras)
+    └── assets/                          # 2 templates profissionais
+        ├── audit-report-template.md     # Report completo (12 seções)
+        └── action-plan-template.md      # Plano de ação detalhado
 │
 ├── growth-hacking-saas.zip              # Skill: Growth Hacking SaaS
 └── growth-hacking-saas/
