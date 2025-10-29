@@ -9,7 +9,8 @@ Coleção pessoal de skills customizadas para Claude Desktop.
 ## 📑 Índice
 
 - [Skills Disponíveis](#-skills-disponíveis)
-  - [Employee Partnership Specialist](#employee-partnership-specialist) - Equity e stock options para startups ⭐ NOVO
+  - [Reforge Specialist](#reforge-specialist) - Frameworks Reforge (Growth, Product, PLG) ⭐ NOVO
+  - [Employee Partnership Specialist](#employee-partnership-specialist) - Equity e stock options para startups
   - [OKR Specialist](#okr-specialist) - OKRs para startups e empresas
   - [SaaS Pricing Specialist](#saas-pricing-specialist) - Precificação estratégica de SaaS
   - [Hooked SaaS Retention Specialist](#hooked-saas-retention-specialist) - Formação de hábitos e retenção
@@ -23,6 +24,43 @@ Coleção pessoal de skills customizadas para Claude Desktop.
 ---
 
 ## 📚 Skills Disponíveis
+
+### Reforge Specialist
+
+Especialista em aplicação prática de frameworks e metodologias Reforge para growth, product, e estratégia de produtos digitais.
+
+- **Descrição**: Transforma Claude em um especialista certificado em metodologias Reforge, com conhecimento profundo dos principais programas: Growth Series, Retention & Engagement, Monetization & Pricing, Product Strategy, Product-Led Growth. Aplica frameworks estruturados ao contexto específico do usuário, sempre elicitando contexto antes de recomendar soluções.
+- **Capacidades principais**:
+  - **Growth**: North Star Framework, Growth Loops, Growth Accounting, Acquisition Channels
+  - **Retention**: Cohort Analysis, Engagement Hierarchy (MAP), Habit Formation (Hooked)
+  - **Monetization**: Value Metric Selection, Pricing Model Canvas, Willingness to Pay
+  - **Product Strategy**: Product Strategy Stack, Prioritization (RICE/ICE), Jobs-to-be-Done
+  - **Product-Led Growth**: PLG Flywheel, Time-to-Value, PQL Scoring, Freemium vs. Trial
+  - Diagnóstico estruturado usando frameworks validados
+  - Aplicação prática ao contexto (não teoria genérica)
+  - Planos de ação acionáveis com priorização (ICE/RICE)
+  - Templates e canvas preenchidos para implementação
+- **Recursos inclusos**:
+  - 4 guias completos de referência (60.000+ palavras total)
+  - North Star Framework - definição, input metrics, exemplos (18.000 palavras)
+  - Growth Loops - 6 tipos, otimização, stacking (20.000 palavras)
+  - Retention Cohorts - análise, padrões, benchmarks (12.000 palavras)
+  - PLG Flywheel - 4 estágios, métricas, conversão (15.000 palavras)
+  - 2 templates profissionais (North Star Canvas, Growth Loop Canvas)
+- **Download**: [`reforge-specialist.zip`](reforge-specialist.zip)
+
+**Exemplos de uso:**
+```
+"Como definir North Star Metric para meu SaaS de CRM?"
+"Nosso churn está em 10%/mês. Como diagnosticar e resolver?"
+"Quero crescer via produto (PLG), não sales. Como implementar?"
+"Como criar um growth loop viral no meu produto?"
+"Análise de cohort mostra queda em M3. O que fazer?"
+"Aplique o framework Hooked para aumentar retenção."
+"Como priorizar roadmap usando frameworks Reforge?"
+```
+
+---
 
 ### Employee Partnership Specialist
 
