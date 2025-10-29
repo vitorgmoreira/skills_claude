@@ -2,6 +2,10 @@
 
 Coleção pessoal de skills customizadas para Claude Desktop.
 
+**Autor:** Vitor Garcia
+📷 Instagram: [@souvitorgarcia](https://www.instagram.com/souvitorgarcia/)
+💼 LinkedIn: [vitorgarciamoreira](https://www.linkedin.com/in/vitorgarciamoreira/)
+
 ## 📑 Índice
 
 - [Skills Disponíveis](#-skills-disponíveis)
