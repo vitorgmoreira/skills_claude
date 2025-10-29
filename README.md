@@ -5,6 +5,9 @@ Coleção pessoal de skills customizadas para Claude Desktop.
 ## 📑 Índice
 
 - [Skills Disponíveis](#-skills-disponíveis)
+  - [Employee Partnership Specialist](#employee-partnership-specialist) - Equity e stock options para startups ⭐ NOVO
+  - [OKR Specialist](#okr-specialist) - OKRs para startups e empresas
+  - [SaaS Pricing Specialist](#saas-pricing-specialist) - Precificação estratégica de SaaS
   - [Hooked SaaS Retention Specialist](#hooked-saas-retention-specialist) - Formação de hábitos e retenção
   - [Growth Hacking SaaS Specialist](#growth-hacking-saas-specialist) - Táticas de crescimento
   - [B2B SaaS Startup Mentor](#b2b-saas-startup-mentor) - Mentoria de startups
@@ -16,6 +19,126 @@ Coleção pessoal de skills customizadas para Claude Desktop.
 ---
 
 ## 📚 Skills Disponíveis
+
+### Employee Partnership Specialist
+
+Especialista em equity compensation (stock options, phantom shares) para startups brasileiras. Ajuda a estruturar, implementar e gerenciar programas de participação societária para colaboradores.
+
+- **Descrição**: Transforma Claude em especialista em equity para colaboradores, cobrindo desde estratégia e aspectos legais até tributação e implementação completa. Foco total no mercado brasileiro (LTDA vs SA, IR, INSS, compliance). Sempre elicita contexto sobre estágio da empresa e estrutura societária antes de dar recomendações.
+- **Capacidades principais**:
+  - Elicitação de contexto completo (estágio, estrutura LTDA/SA, objetivos)
+  - Seleção de tipo de equity (stock options, phantom shares, RSUs, SARs)
+  - Estruturas jurídicas Brasil (LTDA, SA, transformação, offshore)
+  - Tributação completa (IR, INSS, otimização, obrigações empresa)
+  - Vesting schedules e cliff (4 anos padrão, good/bad leaver)
+  - Strike price e valuation (FMV, 409A equivalent)
+  - Contratos e documentação legal (planos, acordos individuais)
+  - Comunicação e transparência (onboarding, FAQ, dilution updates)
+  - Cap table management e tracking
+  - Roadmap completo de implementação
+- **Recursos inclusos**:
+  - 7 guias completos de referência (70.000+ palavras total)
+  - Fundamentos de equity - tipos, benchmarks, cases BR (12.000 palavras)
+  - Estruturas jurídicas BR - LTDA vs SA, transformação, offshore (15.000 palavras)
+  - Tributação Brasil - IR, INSS, otimização, obrigações (12.000 palavras)
+  - Vesting e cliff - schedules, good/bad leaver, acceleration (8.000 palavras)
+  - Strike price e valuation - FMV, preferred vs common (5.000 palavras)
+  - Comunicação - onboarding, transparência, dilution (9.000 palavras)
+  - Cap table management - tools, tracking, updates (5.000 palavras)
+  - 4 templates profissionais (Stock Option Plan, Phantom Share Plan, Offer Letter, FAQ)
+- **Download**: [`employee-partnership-specialist.zip`](employee-partnership-specialist.zip)
+
+**Exemplos de uso:**
+```
+"Preciso estruturar programa de stock options para minha startup. Somos LTDA seed-stage."
+"Qual diferença entre phantom shares e stock options? Qual usar?"
+"Como transformar LTDA em SA? Quanto custa?"
+"Quanto vou pagar de imposto em stock options no Brasil?"
+"Tenho 10.000 options, strike R$1, empresa valuation R$100M. Quanto vale?"
+"Como comunicar equity para colaboradores que não entendem?"
+"Modelo de contrato de stock options para SA brasileira."
+```
+
+---
+
+### OKR Specialist
+
+Especialista em OKRs (Objectives and Key Results) para startups e empresas, ajudando a definir, escrever e gerenciar OKRs de alta qualidade seguindo metodologia Google.
+
+- **Descrição**: Transforma Claude em um especialista em OKRs que ajuda empresas a implementar o framework de forma eficaz, desde escrita de OKRs até gestão de ciclos trimestrais, check-ins e retrospectivas. Sempre elicita contexto (estágio, nível, área) antes de dar recomendações.
+- **Capacidades principais**:
+  - Elicitação estruturada de contexto (estágio da empresa, nível de OKR, área, ciclo)
+  - Escrita de Objectives inspiradores e Key Results mensuráveis
+  - Estruturação de cascata (Company → Team → Individual)
+  - Review e critique de OKRs existentes (qualidade, ambição, alinhamento)
+  - Implementação de cadência e rituais (check-ins, mid-quarter review, grading)
+  - Identificação e correção de 25+ erros comuns
+  - Scoring e grading rigoroso (metodologia 0.0-1.0)
+  - Adaptações para diferentes estágios de startup (pre-seed, seed, Series A+)
+  - Biblioteca com 50+ exemplos reais por área/função
+  - Templates prontos (OKRs, check-ins, grading)
+- **Recursos inclusos**:
+  - 6 guias completos de referência (60.000+ palavras total)
+  - Framework OKR completo - história, conceitos, metodologia Google (12.000 palavras)
+  - Guia de escrita de OKRs - fórmulas, exemplos, checklist (10.000 palavras)
+  - Cadência e rituais - ciclos, check-ins, reviews (8.000 palavras)
+  - Erros comuns - 25+ anti-patterns e como evitá-los (8.000 palavras)
+  - Biblioteca de exemplos - 50+ OKRs reais por área (12.000 palavras)
+  - Contexto para startups - adaptações por estágio (10.000 palavras)
+  - 3 templates profissionais (OKR Template, Check-in, Grading)
+- **Download**: [`okr-specialist.zip`](okr-specialist.zip)
+
+**Exemplos de uso:**
+```
+"Preciso criar OKRs para minha startup de SaaS B2B em seed stage."
+"Revise meus OKRs: [cola OKRs]. O que melhorar?"
+"Como estruturar check-ins semanais de OKRs?"
+"Meu time teve score 0.35. Como interpretar isso?"
+"Diferença entre Objective e Key Result? Me dê exemplos."
+"Quais OKRs fazer para time de Product em growth stage?"
+```
+
+---
+
+### SaaS Pricing Specialist
+
+Especialista em precificação estratégica de SaaS para startups, com foco profundo no mercado brasileiro e frameworks validados.
+
+- **Descrição**: Transforma Claude em um especialista em pricing de SaaS que ajuda startups a definir, testar e otimizar preços usando metodologias científicas e dados de mercado. Sempre elicita contexto completo (estágio, modelo, segmento, geografia) antes de dar recomendações.
+- **Capacidades principais**:
+  - Elicitação estruturada de contexto (stage, modelo B2B/B2C, segmento, geografia)
+  - Aplicação de 10 frameworks de pricing (Value-Based, Freemium, Land & Expand, etc.)
+  - Definição de value metrics e modelos de pricing (per-user, usage-based, tiered, hybrid)
+  - Estruturação de tiers com Good-Better-Best framework
+  - Cálculo de preços usando metodologias científicas (Van Westendorp, Conjoint Analysis)
+  - Pesquisa de Willingness to Pay com 7 metodologias
+  - Testes de preço (A/B testing, fake door, surveys) com métricas corretas
+  - Estratégias de aumento de preço sem churn excessivo
+  - Localização para mercado brasileiro (PPP, PIX, Boleto, Nota Fiscal)
+  - Aplicação de 15 táticas de psicologia de pricing
+- **Recursos inclusos**:
+  - 8 guias completos de referência (98.000+ palavras total)
+  - 10 frameworks de pricing detalhados (20.000 palavras)
+  - 6 modelos de value metrics com benchmarks (12.000 palavras)
+  - 15 táticas de psicologia de pricing (10.000 palavras)
+  - 7 metodologias de pesquisa de WTP (8.000 palavras)
+  - Guia de estruturação de tiers (10.000 palavras)
+  - Metodologias de teste de preço (8.000 palavras)
+  - Playbook de aumento de preços (8.000 palavras)
+  - Contexto Brasil: PPP, PIX, Boleto, concorrentes locais (7.000 palavras)
+- **Download**: [`saas-pricing-specialist.zip`](saas-pricing-specialist.zip)
+
+**Exemplos de uso:**
+```
+"Preciso definir pricing para meu SaaS de CRM. Estou em pré-lançamento no Brasil."
+"Meu preço atual é R$99/mês. Como testar se posso cobrar mais?"
+"Análise competitiva de pricing: por que Notion cobra $8/user e nós R$50?"
+"Tenho 100 clientes pagando R$299/mês. Como aumentar preço sem perder clientes?"
+"Devo usar freemium ou free trial? Meu SaaS é de project management B2B."
+"Como adaptar pricing de $49 USD para mercado brasileiro?"
+```
+
+---
 
 ### Hooked SaaS Retention Specialist
 
@@ -157,6 +280,52 @@ Cada skill inclui sua própria documentação com exemplos específicos de uso.
 ```
 skills_claude/
 ├── README.md
+│
+├── employee-partnership-specialist.zip  # Skill: Employee Partnership Specialist
+└── employee-partnership-specialist/
+    ├── SKILL.md                         # 20.000+ palavras de instruções
+    ├── references/                      # 7 guias completos (70.000+ palavras)
+    │   ├── equity-fundamentals.md       # Tipos, benchmarks, cases (12.000 palavras)
+    │   ├── legal-structures-brazil.md   # LTDA vs SA, transformação (15.000 palavras)
+    │   ├── taxation-brazil.md           # IR, INSS, otimização (12.000 palavras)
+    │   ├── vesting-cliff-guide.md       # Vesting, good/bad leaver (8.000 palavras)
+    │   ├── valuation-strike-price.md    # FMV, strike price (5.000 palavras)
+    │   ├── communication-transparency.md # Onboarding, FAQ (9.000 palavras)
+    │   └── cap-table-management.md      # Tools, tracking (5.000 palavras)
+    └── assets/                          # 4 templates profissionais
+        ├── stock-option-plan.md         # Plano completo para SA
+        ├── phantom-share-plan.md        # Plano completo para LTDA
+        ├── equity-offer-letter.md       # Carta de oferta com equity
+        └── equity-faq-collaborators.md  # FAQ para colaboradores
+│
+├── okr-specialist.zip                   # Skill: OKR Specialist
+└── okr-specialist/
+    ├── SKILL.md                         # 15.000+ palavras de instruções
+    ├── references/                      # 6 guias completos (60.000+ palavras)
+    │   ├── okr-framework.md             # Framework completo, história (12.000 palavras)
+    │   ├── okr-writing-guide.md         # Como escrever OKRs (10.000 palavras)
+    │   ├── okr-cadence-rituals.md       # Ciclos, check-ins, reviews (8.000 palavras)
+    │   ├── okr-common-mistakes.md       # 25+ erros comuns (8.000 palavras)
+    │   ├── okr-examples-library.md      # 50+ exemplos reais (12.000 palavras)
+    │   └── okr-startup-context.md       # Adaptações por estágio (10.000 palavras)
+    └── assets/                          # 3 templates profissionais
+        ├── okr-template.md              # Template para criar OKRs
+        ├── check-in-template.md         # Template de check-in semanal
+        └── grading-template.md          # Template de grading fim de ciclo
+│
+├── saas-pricing-specialist.zip          # Skill: SaaS Pricing Specialist
+└── saas-pricing-specialist/
+    ├── SKILL.md                         # 15.000+ palavras de instruções
+    ├── references/                      # 8 guias completos (98.000+ palavras)
+    │   ├── pricing-frameworks.md        # 10 frameworks detalhados (20.000 palavras)
+    │   ├── value-metrics-models.md      # 6 modelos com benchmarks (12.000 palavras)
+    │   ├── pricing-psychology.md        # 15 táticas psicológicas (10.000 palavras)
+    │   ├── willingness-to-pay.md        # 7 metodologias de pesquisa (8.000 palavras)
+    │   ├── tier-structure-guide.md      # Good-Better-Best framework (10.000 palavras)
+    │   ├── price-testing-methodology.md # 7 métodos de teste (8.000 palavras)
+    │   ├── price-increases-playbook.md  # Estratégias de aumento (8.000 palavras)
+    │   └── brazil-context.md            # PPP, PIX, Boleto, NF (7.000 palavras)
+    └── assets/                          # Templates (a serem criados conforme necessário)
 │
 ├── hooked-saas-retention.zip            # Skill: Hooked SaaS Retention
 └── hooked-saas-retention/
